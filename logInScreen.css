@@ -1,0 +1,37 @@
+
+.topScreenPart{
+    position: static;
+    width: 400px;
+    height: 132px;
+    margin-left: 568px;
+    margin-top: 20px;
+    background-color: wheat;
+}
+.picture_left{
+    margin-left: 482.5px;
+}
+.next_to_button{
+    margin-top: 6px;
+    background-color: aqua;
+    border-color: #00fffe;
+    margin-left: 568px;
+    width: 100px;
+    position: static;
+    z-index: 1;
+}
+.be_below{
+    z-index: 0;
+}
+body {
+    background-color: white;
+    margin: 0px;
+    margin-top: 0px;
+    padding: 0%;
+    }
+    p{
+        margin: 0px;
+    }
+    .no_margin_for_div{
+        height: 19.8px;
+        margin-left: 130px;
+    }
