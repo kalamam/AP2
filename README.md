@@ -1,2 +1,3 @@
 # AP2
-תכנות מתקדם  2 - משה קלמרו ונועם קפלינסקי
+Advanced Programing 2 - Moshe Kalamaro and Noam Kaplinski
+To enter each exercise, you should go to his specific branch.
