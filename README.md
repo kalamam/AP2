@@ -1,4 +1,4 @@
-# AP2 - Wazzapp - Web Client
+# AP2 - Wazzapp
 
 תכנות מתקדם 2 - משה קלמרו ונועם קפלינסקי
 
