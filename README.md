@@ -33,3 +33,4 @@ start the client with: npm start (in the right directory)
 start the app with: node app.js (in the right directory)
 
 
+![images](https://github.com/kalamam/AP2/assets/110221265/248e0815-5e7d-42a0-96ce-7c6f715fe72d)
