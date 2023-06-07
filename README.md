@@ -16,7 +16,7 @@ in part2 we have the second part of the assignment, where we need to build a ser
 to run our code, follow the steps:
 1. use the code from part1 to create a new react app.
 2. download the code from part 2 and insert it into a desired directory,
-in the same directory use: npm i express bode-parser cors custom-env mongoose
+in the same directory use: npm i express bode-parser cors custom-env mongoose.
 start the app with: node app.js
 
 # part3:
