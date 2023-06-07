@@ -14,8 +14,7 @@ now, it should open a new tab, in the adress http://localhost:3000.
 the react app should look like the web-client app:
 ![web-client](https://github.com/kalamam/AP2/assets/110221265/f594c480-2f37-4580-832c-e302abca50bb)
 
-when you do: cd web-client
-then do npm start.
+to start do: cd web-client and then do npm start.
 
 # part2:
 in part2 we have the second part of the assignment, where we need to build a server ourselfs.
