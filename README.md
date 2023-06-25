@@ -14,6 +14,7 @@ you can also extract the zip we gave you, after the extraction open the android 
 you can see how in the following picture: <br />
 ![howtoopenzip](https://github.com/kalamam/AP2/assets/110221265/fa8d8358-54f8-46a8-b3ac-b10da6cf4893)
 and the press ok. <br />
+Then you can immediately run the app. <br />
 Thats it! <br />
 The folder with the zip looks like this after you press extract here on the zip: <br />
 ![howthefolderlook](https://github.com/kalamam/AP2/assets/110221265/1bdb0398-a1fe-4a3b-950c-41ca18cba16d)
