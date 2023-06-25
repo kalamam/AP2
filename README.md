@@ -6,8 +6,8 @@ To run our project please follow the following steps:
 1. clone the ex4 branch
 2. cd AP2
 3. cd web-ap
-4. dotnet run 
-with this steps you will run the web api server.
+4. dotnet run <br />
+with this steps you will run the web api server. <br />
 now, you will need to activate the android client. 
 The android client is located in the android-client folder, instead of extracting all the files and dealing with the build and the hidden folders that cannot be uploaded to the git,
 you can also extract the zip we gave you, after the extraction open the android studio application then press File in the top left corner, then press open project and open the right project from the extracted file.
